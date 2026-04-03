@@ -11,6 +11,10 @@ O sistema permite:
 - ✅ Consultar saldo
 - ✅ Encerrar o programa
 
+PATCH ATT 1:
+
+- ✅ Modularizacao do codigo adicionada
+
 O objetivo do projeto é praticar estruturas condicionais, variáveis e entrada de dados em C.
 
 ---
